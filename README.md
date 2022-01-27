@@ -1,6 +1,6 @@
 # Popping in program (PIP)
 
-Using python (Beautiful Soup, ), I compiled a database of ObGyn practices and a database of graduate family and mental counseling programs in 10 different states 
+Using python (Beautiful Soup), I compiled a database of ObGyn practices and a database of graduate family and mental counseling programs in 10 different states 
 
 I used the Mapquest API to get the long & lat for every address in these two databases
 
