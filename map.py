@@ -4,7 +4,7 @@ from folium import FeatureGroup
 # from folium.plugins import MarkerCluster
 
 #Create the base Map
-m = folium.Map(location=[36.174465,-86.767960], tiles='OpenStreetMap', zoom_start=5)
+m = folium.Map(location=[36.174465,-86.767960], tiles='OpenStreetMap', zoom_start=10)
 
 #Read the data
 df = pd.read_csv("obgyntn.csv")
@@ -15,13 +15,14 @@ for i, row in df.iterrows():
     lng = df.at[i,'lng']
 
     name = df.at[i,'name']
-    popup = df.at[i,'name'] +'<br>' + str(df.at[i, 'street']) +'<br>' + str(df.at[i, 'zip'])
+    service = df.at[i,'service']
+    popup = df.at[i,'name'] +'<br>' + str(df.at[i,'service']) +'<br>' + str(df.at[i, 'street']) +'<br>' + str(df.at[i, 'zip'])
 
-    if name == 'obgyn':
+    if service == 'obgyn':
         color = 'blue'
     else:
         color = 'red'
 
-    folium.Marker(location=[lat, lng],popup=name, icon=folium.Icon(color=color)).add_to(m)
+    folium.Marker(location=[lat, lng],popup=popup, icon=folium.Icon(color=color)).add_to(m)
 
 m.save("index.html")

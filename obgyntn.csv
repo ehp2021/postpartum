@@ -1,45 +1,75 @@
-﻿name,street,city,state,zip,lat,lng,,
-obgyn, 330 23rd Ave North Ste 250,Nashville,TN 37203 ,,36.154327,-86.808673,,
-obgyn, 330 23rd Ave N Ste 600,Nashville,TN 37203 ,,36.154327,-86.808673,,
-obgyn, 2000 Church St,Nashville,TN 37236 ,,36.152939,-86.801765,,
-obgyn, 2201 Murphy Ave Ste 104,Nashville,TN 37203 ,,36.154657,-86.806223,,
-obgyn, 1900 Church St Ste 100,Nashville,TN 37203 ,,36.154209,-86.799195,,
-obgyn, 1301 Medical Center Dr,Nashville,TN 37232 ,,36.141227,-86.801454,,
-obgyn, 345 23rd Ave N Ste 209,Nashville,TN 37203 ,,36.15518,-86.809332,,
-obgyn, 2201 Murphy Ave Ste 307,Nashville,TN 37203 ,,36.154657,-86.806223,,
-obgyn, 719 Thompson Lane Suite 26300,Nashville,TN 37204 ,,36.1119,-86.763179,,
-obgyn, 2201 Murphy Ave Ste 103,Nashville,TN 37203 ,,36.154657,-86.806223,,
-obgyn, 222 22nd Ave N Ste 600 Fl 6,Nashville,TN 37203 ,,36.152546,-86.804349,,
-obgyn, 330 23rd Ave North Ste 250,Nashville,TN 37203 ,,36.154327,-86.808673,,
-obgyn, 2011 Murphy Ave Ste 201,Nashville,TN 37203 ,,36.155731,-86.803954,,
-obgyn, 1900 Church St Ste 100,Nashville,TN 37203 ,,36.154209,-86.799195,,
-obgyn, 2010 Church St Ste 201,Nashville,TN 37203 ,,36.152869,-86.80191,,
-Austin Peay State University,"Clement Building, Room 205 PO Box 4537",Clarksville,TN 37044,,39.390897,-99.066067,,
-Belmont University  Mental Health Counseling Program,1900 Blemont Blvd,Nashville,TN 37212,,36.135115,-86.795602,,
-Carson Newman University Adult and Graduate Studies,1646 Russell Ave,Jefferson City,TN 37760,,36.122274,-83.492201,,
-East Tennessee State University Department of Counseling & Human Services ,PO Box 70701,Johnson City,TN 37614,,36.302567,-82.367535,,
-Freed-Hardeman University Graduate Studies in Counseling,158 E Main Street,Henderson,TN 38340,,35.440724,-88.63909,,
-Harding University Memphis campus,1000 Cherry Road,Memphis,TN 38117,,35.104446,-89.915757,,
-Johnson University Graduate Counseling,7900 Johnson Dr Box 180,Knoxville,TN 37998,,35.936873,-83.74955,,
-Lee University Graduate Counseling & Psychology,1250 Parker Street PO Box 3450,Cleveland,TN 37320,,35.159608,-84.876799,,
-Lincoln Memorial University School of Education - Counseling Program,6965 Cumberland Gap Parkway,Harrogate,TN 37752,,36.58054,-83.656523,,
-"Lipscomb University Department of Psychology, Counseling & Family Science",One University Park Drive,Nashville,TN 37204,,36.10593,-86.80014,,
-Middle Tennessee State University Department of Educational Leadership,MTSU Box 91,Murfreesboro,TN 37132,,35.84746,-86.35705,,
-Milligan College Office of Graduate & Professional Studies,PO Box 22,Milligan College,TN 37682,,36.300479,-82.294138,,
-Pentecostal Theological Seminary,900 Walker St. NE,Cleveland,TN 37311,,35.16269,-84.868819,,
-Southern Adventist University School of Education & Psychology,Southern Adventist University PO Box 370,Collegedale,TN 37315,,39.390897,-99.066067,,
-Tennessee Tech University,Department of Counseling and Psychology TTU Box 5031,Cookeville,TN 38505,,39.390897,-99.066067,,
-Trevecca Nazarene University,333 Murfreesboro Road,Nashville,TN 37210,,36.144662,-86.749911,,
-University of Memphis,College of Education Ball Hall,Memphis,TN 38152-0001,,35.11996,-89.91746,,
-University of TN at Chattanooga Hunter Hall Department 2242,615 McCallie Ave.,Chattanooga,TN 37403,,35.045192,-85.299602,,
-"University of TN at Knoxville College of Education, Health, and Human Sciences",1122 Volunteer Boulevard,Knoxville,TN 37996-3452,,35.954261,-83.928094,,
-University of Tennessee at Martin,205 Gooch Hall,Martin,TN 38238,,36.343437,-88.8624,,
-Vanderbilt University Department of Human and Organizational Development Peabody #90,230 Appleton Place,Nashville,TN 37203,,36.14302,-86.79718,,
-obgyn, 6225 Humphreys Blvd,Memphis,TN 38120,,35.128419,-89.854378,,Baptist Memorial Hospital for Women OB/GYN Residency Program
-obgyn, 1276 Gilbreath Dr,Johnson City,TN 37614,,36.304315,-82.366204,,East Tennessee State University
-obgyn, 1005 Dr DB Todd Jr Blvd,Nashville,TN 37208,,36.165056,-86.804839,,Meharry Medical College
-obgyn, 960 East Third Street,Chattanooga,TN 37403,,35.047907,-85.290872,,University of Tennessee College of Medicine - Chattanooga
-obgyn, 1840 Medical Center Parkway,Murfreesboro,TN 37129,,35.858851,-86.423872,,University of Tennessee HSC-St Thomas Health
-obgyn, 1924 Alcoa Hwy,Knoxville,TN 37920,,35.93826,-83.946678,,University of Tennessee Medical Ctr at Knoxville
-obgyn, 920 Madison Avenue,Memphis,TN 38163,,35.140255,-90.030198,,"University of Tennessee, Memphis"
-obgyn, 1211 Medical Center Dr,Nashville,TN 37232,,36.142271,-86.801319,,Vanderbilt University Medical Center
+﻿name,service,street,city,state,zip,lat,lng
+Austin Peay State University,grad program,"Clement Building, Room 205 PO Box 4537",Clarksville,TN 37044,,39.390897,-99.066067
+Belmont University  Mental Health Counseling Program,grad program,1900 Blemont Blvd,Nashville,TN 37212,,36.135115,-86.795602
+Carson Newman University Adult and Graduate Studies,grad program,1646 Russell Ave,Jefferson City,TN 37760,,36.122274,-83.492201
+East Tennessee State University Department of Counseling & Human Services ,grad program,PO Box 70701,Johnson City,TN 37614,,36.302567,-82.367535
+Freed-Hardeman University Graduate Studies in Counseling,grad program,158 E Main Street,Henderson,TN 38340,,35.440724,-88.63909
+Harding University Memphis campus,grad program,1000 Cherry Road,Memphis,TN 38117,,35.104446,-89.915757
+Johnson University Graduate Counseling,grad program,7900 Johnson Dr Box 180,Knoxville,TN 37998,,35.936873,-83.74955
+Lee University Graduate Counseling & Psychology,grad program,1250 Parker Street PO Box 3450,Cleveland,TN 37320,,35.159608,-84.876799
+Lincoln Memorial University School of Education - Counseling Program,grad program,6965 Cumberland Gap Parkway,Harrogate,TN 37752,,36.58054,-83.656523
+"Lipscomb University Department of Psychology, Counseling & Family Science",grad program,One University Park Drive,Nashville,TN 37204,,36.10593,-86.80014
+Middle Tennessee State University Department of Educational Leadership,grad program,MTSU Box 91,Murfreesboro,TN 37132,,35.84746,-86.35705
+Milligan College Office of Graduate & Professional Studies,grad program,PO Box 22,Milligan College,TN 37682,,36.300479,-82.294138
+Pentecostal Theological Seminary,grad program,900 Walker St. NE,Cleveland,TN 37311,,35.16269,-84.868819
+Southern Adventist University School of Education & Psychology,grad program,Southern Adventist University PO Box 370,Collegedale,TN 37315,,39.390897,-99.066067
+Tennessee Tech University,grad program,Department of Counseling and Psychology TTU Box 5031,Cookeville,TN 38505,,39.390897,-99.066067
+Trevecca Nazarene University,grad program,333 Murfreesboro Road,Nashville,TN 37210,,36.144662,-86.749911
+University of Memphis,grad program,College of Education Ball Hall,Memphis,TN 38152-0001,,35.11996,-89.91746
+University of TN at Chattanooga Hunter Hall Department 2242,grad program,615 McCallie Ave.,Chattanooga,TN 37403,,35.045192,-85.299602
+"University of TN at Knoxville College of Education, Health, and Human Sciences",grad program,1122 Volunteer Boulevard,Knoxville,TN 37996-3452,,35.954261,-83.928094
+University of Tennessee at Martin,grad program,205 Gooch Hall,Martin,TN 38238,,36.343437,-88.8624
+Vanderbilt University Department of Human and Organizational Development Peabody #90,grad program,230 Appleton Place,Nashville,TN 37203,,36.14302,-86.79718
+Baptist Memorial Hospital for Women OB/GYN Residency Program,obgyn, 6225 Humphreys Blvd,Memphis,TN 38120,,35.128419,-89.854378
+East Tennessee State University,obgyn, 1276 Gilbreath Dr,Johnson City,TN 37614,,36.304315,-82.366204
+Meharry Medical College,obgyn, 1005 Dr DB Todd Jr Blvd,Nashville,TN 37208,,36.165056,-86.804839
+University of Tennessee College of Medicine - Chattanooga,obgyn, 960 East Third Street,Chattanooga,TN 37403,,35.047907,-85.290872
+University of Tennessee HSC-St Thomas Health,obgyn, 1840 Medical Center Parkway,Murfreesboro,TN 37129,,35.858851,-86.423872
+University of Tennessee Medical Ctr at Knoxville,obgyn, 1924 Alcoa Hwy,Knoxville,TN 37920,,35.93826,-83.946678
+"University of Tennessee, Memphis",obgyn, 920 Madison Avenue,Memphis,TN 38163,,35.140255,-90.030198
+Vanderbilt University Medical Center,obgyn, 1211 Medical Center Dr,Nashville,TN 37232,,36.142271,-86.801319
+doctor,obgyn, 330 23rd Ave North Ste 250,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 330 23rd Ave N Ste 600,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 2000 Church St,Nashville,TN 37236 ,,36.152939,-86.801765
+doctor,obgyn, 2201 Murphy Ave Ste 104,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 1900 Church St Ste 100,Nashville,TN 37203 ,,36.154209,-86.799195
+doctor,obgyn, 1301 Medical Center Dr,Nashville,TN 37232 ,,36.141227,-86.801454
+doctor,obgyn, 345 23rd Ave N Ste 209,Nashville,TN 37203 ,,36.15518,-86.809332
+doctor,obgyn, 2201 Murphy Ave Ste 307,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 719 Thompson Lane Suite 26300,Nashville,TN 37204 ,,36.1119,-86.763179
+doctor,obgyn, 2201 Murphy Ave Ste 103,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 222 22nd Ave N Ste 600 Fl 6,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 330 23rd Ave North Ste 250,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 2011 Murphy Ave,Nashville,TN 37203 ,,36.155731,-86.803954
+doctor,obgyn, 300 20th Avenue North,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 222 22nd Ave N,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 330 23rd Ave N Ste 600,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 222 22nd Ave N,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 2201 Murphy Ave Ste 101,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 2201 Murphy Ave Ste 306,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 345 23rd Ave N Ste 209,Nashville,TN 37203 ,,36.15518,-86.809332
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 2201 Murphy Ave Ste 104,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 2201 Murphy Ave Ste 302,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 222 22nd Ave N Ste 600 Fl 6,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 2011 Murphy Ave Ste 200,Nashville,TN 37203 ,,36.155731,-86.803954
+doctor,obgyn, 2201 Murphy Ave Ste 411,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 329 21st Ave N Ste 1,Nashville,TN 37203 ,,36.155135,-86.804684
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 222 22nd Ave N Ste 600 Fl 6,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 2011 Murphy Ave Ste 603,Nashville,TN 37203 ,,36.155731,-86.803954
+doctor,obgyn, 2011 Murphy Ave Ste 200,Nashville,TN 37203 ,,36.155731,-86.803954
+doctor,obgyn, 330 23rd Ave N Ste 604,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 300 20th Ave N Ste 607,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 300 20th Ave N Ste 406,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 2201 Murphy Ave Ste 110,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 300 20th Ave N Ste 505,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 300 20th Ave N Ste 602,Nashville,TN 37203 ,,36.154708,-86.80181
+doctor,obgyn, 2011 Murphy Ave Ste 200,Nashville,TN 37203 ,,36.155731,-86.803954
+doctor,obgyn, 330 23rd Ave N Ste 604,Nashville,TN 37203 ,,36.154327,-86.808673
+doctor,obgyn, 2201 Murphy Ave Ste 215,Nashville,TN 37203 ,,36.154657,-86.806223
+doctor,obgyn, 222 22nd Ave N Ste 600 Fl 6,Nashville,TN 37203 ,,36.152546,-86.804349
+doctor,obgyn, 345 23rd Ave N Ste 401,Nashville,TN 37203 ,,36.15518,-86.809332

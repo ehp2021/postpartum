@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as BS
 import requests
 import csv
 
-page = requests.get("https://doctor.webmd.com/find-a-doctor/specialty/obstetrics-gynecology/tennessee/nashville")
+page = requests.get("https://doctor.webmd.com/find-a-doctor/specialty/obstetrics-gynecology/tennessee/nashville?pagenumber=3")
 soup = BS(page.content, features="lxml")
 content = soup.find('ul', class_='resultslist-content')
 doctorslist = content.find_all('span', class_='addr-text')
